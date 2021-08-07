@@ -1,0 +1,7 @@
+
+df_pobreza_cronica:
+Datos de características de los departamentos incluidos en un informe del CEDLAS, PNUD, ODSA y CIPPEC, 
+el cual incluye variables de la Encuesta Permanente de Hogares (EPH) y el Censo 2010. 
+
+df_precenso_viviendas:
+Datos del Pre Censo de Viviendas (2021) publicado por el INDEC.
